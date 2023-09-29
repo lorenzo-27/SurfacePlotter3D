@@ -26,17 +26,20 @@ Per poter funzionare sono necessarie le seguenti librerie:
 GUI minimale per l'inserimento della funzione d'interesse.
 
 <br>
+<br>
 
 <img width="375" alt="Schermata 2023-09-29 alle 23 04 51" src="https://github.com/lorenzo-27/SurfacePlotter3D/assets/102320752/0c62987b-5479-4b6c-8934-7ca7f19169a2">
 <br>
 Esempio di scrittura usando np della funzione f(x, y) = x^2 + y^2 .
 
 <br>
+<br>
 
 <img width="642" alt="Schermata 2023-09-29 alle 23 05 01" src="https://github.com/lorenzo-27/SurfacePlotter3D/assets/102320752/8eca89ae-d75d-4d23-bb79-b83c86d618e5">
 <br>
 Grafico della funzione f(x, y) = x^2 + y^2 nella vista standard.
 
+<br>
 <br>
 
 <img width="642" alt="Schermata 2023-09-29 alle 23 05 46" src="https://github.com/lorenzo-27/SurfacePlotter3D/assets/102320752/a5d08e81-653a-4e10-9852-ffe83860af77">
